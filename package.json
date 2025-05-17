@@ -1,0 +1,23 @@
+{
+  "name": "maisprati-exercicios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielHowes/MaisPraTi-Exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielHowes/MaisPraTi-Exercicios/issues"
+  },
+  "homepage": "https://github.com/GabrielHowes/MaisPraTi-Exercicios#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
